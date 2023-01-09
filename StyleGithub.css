@@ -19,6 +19,10 @@ h1,h2,p{
     text-align: center;
 }
 
+h1{
+    font-style: italic;
+}
+
 .main{
     display: flex;
     flex-direction: row;
