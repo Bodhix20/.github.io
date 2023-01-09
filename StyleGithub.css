@@ -14,9 +14,14 @@ header{
     background-color:rgba(15, 126, 7, 0.5)  ;
 }
 
+h1{
+    font-style: oblique;
+}
+
 h1,h2,p{
     color: white;
     text-align: center;
+    
 }
 
 .main{
